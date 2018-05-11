@@ -1,0 +1,11 @@
+Package: opencputest
+Title: Try out OpenCPU
+Version: 0.0.0.9000
+Authors@R: person("Kent", "Johnson", email = "kent.johnson@perkinelmer.com", role = c("aut", "cre"))
+Description: Simple package to experiment with OpenCPU.
+Depends: R (>= 3.4.3)
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.0.1
