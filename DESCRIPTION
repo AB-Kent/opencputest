@@ -3,7 +3,7 @@ Title: Try out OpenCPU
 Version: 0.0.0.9001
 Authors@R: person("Kent", "Johnson", email = "kent.johnson@perkinelmer.com", role = c("aut", "cre"))
 Description: Simple package to experiment with OpenCPU.
-Depends: R (>= 3.4.3)
+Depends: R (>= 3.4.0)
 License: GPL-2
 Encoding: UTF-8
 LazyData: true
