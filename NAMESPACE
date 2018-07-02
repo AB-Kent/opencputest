@@ -2,3 +2,4 @@
 
 export(euclidean_distance)
 export(manhattan_distance)
+export(minkowski_distance)
